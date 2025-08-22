@@ -1,0 +1,46 @@
+# C++ build artifacts
+*.o
+*.obj
+*.so
+*.dll
+*.exe
+*.out
+*.a
+*.lib
+*.dylib
+
+# Debug symbols and folders
+*.dSYM/
+*.pdb
+
+# Compiled binaries
+hello-world
+hellow-world
+
+# VS Code settings
+.vscode/
+
+# CMake build folders
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Other IDE/project files
+*.user
+*.log
+*.swp
+*.swo
+*.sln
+*.vcxproj*
+
+# MacOS system files
+.DS_Store
+
+# Backup files
+*~
+*.bak
+
+# Generated files
+*.generated.*
